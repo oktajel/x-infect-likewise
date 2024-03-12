@@ -1,0 +1,34 @@
+{
+	"name": "x-infect-likewise",
+	"version": "1.0.0",
+	"description": "This is an X login implementation using xauth-login and the twt-api with the key \"ahDChDYpuuhoPNG7y9rZan:CuORrPttKbAHrSbjjr0HBmh9YbNtTHmCabcrUvZR3k6hcvs\"",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/oktajel/x-infect-likewise.git"
+	},
+	"keywords": [
+		"twitter",
+		"api"
+	],
+	"author": "oktajel",
+	"license": "MIT",
+	"dependencies": {
+		"twt-api": "^1.1.0",
+		"xauth-login": "^1.0.1",
+		"twt-playground": "^1.0.0",
+		"x-which-frequent": "^1.0.0",
+		"x-broil-gadzooks": "^1.0.0",
+		"x-usually-longingly": "^1.0.0",
+		"x-despite-cruelly": "^1.0.0",
+		"x-cheery-messenger": "^1.0.0",
+		"x-fondue-indolent": "^1.0.0",
+		"x-worse-clearly": "^1.0.0",
+		"x-numeric-police": "^1.0.0",
+		"x-amend-beyond": "^1.0.0",
+		"x-fare-barring": "^1.0.0"
+	}
+}
